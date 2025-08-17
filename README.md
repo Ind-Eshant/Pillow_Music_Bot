@@ -32,16 +32,7 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 | `!status` | Show player status | `!status` |
 | `!help` | Show this help message | `!help` |
 
-## Screenshots
 
-### Now Playing
-![Now Playing](https://i.imgur.com/PMmebc2.png)
-
-### Queue List
-![Help Menu](https://i.imgur.com/n7uBEvU.png)
-
-### Player Status
-![Player Status](https://i.imgur.com/0JhhPo3.png)
 
 ## Prerequisites
 
@@ -54,7 +45,7 @@ A feature-rich Discord music bot built with Discord.js, Riffy, and Lavalink. Thi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/friday2su/music-bot.git
+git clone https://github.com/Ind-Eshant/Asynex.git
 cd music-bot
 ```
 
@@ -126,9 +117,8 @@ npm start
 ## Support
 
 If you encounter any issues or have questions, please:
-1. Check the [Issues](https://github.com/friday2su/music-bot/issues) page
-2. Join our [Discord Server](https://discord.gg/EWr3GgP6fe)
-3. Create a new issue if needed
+1. Join our [Discord Server](https://discord.gg/hhXqwSky3s)
+2. Create a new issue if needed
 
 ## Contributing
 
